@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Starshipit is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://starshipit.com/
+Starshipit is a shipping and fulfilment platform that helps retailers automate label creation, manage over 60 carriers, and send shipping notifications, delivering better customer experiences across Australia and New Zealand. The service offers a free trial, integrated pricing, and extensive support resources for eCommerce businesses.
+
+**Areas:** Shipping · Fulfilment · eCommerce · Automation · Australia · New Zealand
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://starshipit.com/)
+- [Documentation](https://api-docs.starshipit.com/)
+- [Getting started](https://support.starshipit.com/categories/getting-started)
+- [Pricing](https://starshipit.com/pricing)
+- [Sign up](https://app.starshipit.com/Dashboard/SignUp.aspx)
+- [Support](https://starshipit.com/support-centre)
+- [Changelog](https://support.starshipit.com/changelog)
+- [Blog](https://starshipit.com/blog)
+- [Trust centre](https://trust.starshipit.com/)
+- [Privacy policy](https://starshipit.com/privacy-policy)
+- [Status](https://status.starshipit.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/starshipit/](https://apis.io/providers/starshipit/).
